@@ -59,7 +59,7 @@ Focused on leveraging programming to solve real-world problems in healthcare, da
 
 ![Autodesk Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=flat-square&logo=autodesk&logoColor=white)
 ![Meshmixer](https://img.shields.io/badge/Meshmixer-0696D7?style=flat-square&logo=autodesk&logoColor=white)
-![3D Slicer](https://img.shields.io/badge/3D%20Slicer-F7B731?style=flat-square&logo=data:image/png;base64,&logoColor=white)
+![3D Slicer](https://img.shields.io/badge/3D%20Slicer-F7B731?style=flat-square&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
@@ -79,7 +79,7 @@ Focused on leveraging programming to solve real-world problems in healthcare, da
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreaNite&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreaNite&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
 
 </div>
 
