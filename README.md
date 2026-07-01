@@ -75,8 +75,6 @@ Focused on leveraging programming to solve real-world problems in healthcare, da
 
 ---
 
----
-
 <div align="center">
 
 *Open to collaboration on projects involving biomedical technology, data science, and software development.*
