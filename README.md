@@ -75,14 +75,6 @@ Focused on leveraging programming to solve real-world problems in healthcare, da
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreaNite&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
-
-</div>
-
 ---
 
 <div align="center">
